@@ -18,6 +18,12 @@ namespace Solo_Learn_C_Sharp_Module_1
             // Priniting Text
             Console.WriteLine("bruh");
 
+            // Getting User Input
+            Console.WriteLine("Whats your name: ");
+            string name = Console.ReadLine();
+            Console.WriteLine($"{name} is your name");
+
+
 
 
 
