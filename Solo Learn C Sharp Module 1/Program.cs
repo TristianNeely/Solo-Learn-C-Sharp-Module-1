@@ -28,8 +28,15 @@ namespace Solo_Learn_C_Sharp_Module_1
 
             // The Var Keyword
             var num = 42;
-            
 
+            // Constants 
+            
+            //Constants store a value that cannot be changed from their initial assignment.
+            /*To declare a constant, use the const modifier. */
+             
+            const double PI = 3.14;
+            //PI = 8; //error
+            Console.WriteLine(PI);
 
 
 
