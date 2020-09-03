@@ -23,6 +23,9 @@ namespace Solo_Learn_C_Sharp_Module_1
             string name = Console.ReadLine();
             Console.WriteLine($"{name} is your name");
 
+            // Comments 
+            // Bruh Moment 
+
 
 
 
