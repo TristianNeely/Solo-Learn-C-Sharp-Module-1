@@ -26,7 +26,9 @@ namespace Solo_Learn_C_Sharp_Module_1
             // Comments 
             // Bruh Moment 
 
-
+            // The Var Keyword
+            var num = 42;
+            
 
 
 
