@@ -53,6 +53,13 @@ namespace Solo_Learn_C_Sharp_Module_1
             x += 2; // equivalent to x = x + 2
             x -= 6; // equivalent to x = x - 6
 
+            // What is C# 
+
+            // Welcome to C#
+
+           /* C# is an elegant object-oriented language that enables developers to build a variety of secure and robust applications that run on the .NET Framework.
+You can use C# to create Windows applications, Web services, mobile applications, client-server applications, database applications, and much, much more.
+You will learn more about these concepts in the upcoming lessons! */
 
 
 
