@@ -48,6 +48,11 @@ namespace Solo_Learn_C_Sharp_Module_1
              * Modulus %
              */
 
+            // Assignment & increment Operators 
+            int x = 42;
+            x += 2; // equivalent to x = x + 2
+            x -= 6; // equivalent to x = x - 6
+
 
 
 
